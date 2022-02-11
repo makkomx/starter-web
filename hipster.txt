@@ -1,0 +1,1 @@
+El módulo permite la administración de extensiones internas de los usuarios. El sistema INMS provee una funcionalidad de escucha de llamada así como la comunicación interna, por lo que a un usuario se le puede asignar una extensión y configurársele vía un teléfono físico VoIP o un softphone la extensión para que pueda operar estas características.
