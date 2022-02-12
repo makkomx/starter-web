@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <name>Josue Tai</name>
 
 # TECHNOLOGY COLOPHON
 
